@@ -1,4 +1,4 @@
-# avanze 2
+# avance 2
 - M -> prototipos con M siendo un natural.
 
 - N -> capas de cada prototipo con N sinedo un natural.
